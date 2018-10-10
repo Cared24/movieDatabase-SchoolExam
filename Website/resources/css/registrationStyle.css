@@ -1,0 +1,80 @@
+#content {
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+	margin-bottom: 10px;
+}
+
+html {
+	background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(img/registrationWallpaper.jpg);
+	height: 100vh;
+}
+
+label{
+	color: white;
+}
+
+h1 {
+	color: #fff;
+}
+
+html{
+    background-color: #fff;
+    color: #555;
+    font-family: 'Lato', 'Arial', sans-serif;
+    font-weight: 300;
+    font-size: 1.2rem;
+    text-rendering: optimizeLegibility;
+}
+/* ------------------------------------------------*/
+/* HEADER */
+/* ------------------------------------------------*/
+.main-nav{
+    float: right;
+    list-style: none;
+    margin-top: 60px;
+}
+
+.main-nav li{
+    display: inline;
+    margin-left: 40px;
+}
+
+.main-nav li a:link,
+.main-nav li a:visited{
+    padding: 8px 0;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 90%;
+    border-bottom:  2px solid #229be6 transparent;
+    transition: border-bottom 0.2s;
+}
+
+.main-nav li a:hover,
+.main-nav li a:active{
+    border-bottom:  2px solid #229be6;
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+.column,
+.right-bar {
+    text-align: right;
+    padding: 20px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+/* ------------------------------------------------*/
+/* BUTTONS */
+/* ------------------------------------------------*/

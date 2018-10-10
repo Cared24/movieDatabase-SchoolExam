@@ -1,0 +1,248 @@
+/* ------------------------------------------------*/
+
+
+/* BASIC SETUP */
+
+
+/* ------------------------------------------------*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 1rem;
+}
+
+html {
+    background-color: #fff;
+    color: #555;
+    font-family: 'Lato', 'Arial', sans-serif;
+    font-weight: 300;
+    font-size: 1.2rem;
+    text-rendering: optimizeLegibility;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/moviesWallpaper.jpg);
+}
+
+
+
+/* ------------------------------------------------*/
+
+
+/* REUSABLE COMPONENTS */
+
+
+/* ------------------------------------------------*/
+
+.row {
+    max-width: 1140px;
+    font-size: inherit;
+}
+
+h1 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: #fff;
+    font-size: 3rem;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    word-spacing: 4px;
+}
+
+
+/* ------------------------------------------------*/
+
+
+/* BUTTONS */
+
+
+/* ------------------------------------------------*/
+
+.button-submit{
+	margin-left: 20px;
+	margin-top: 30px;
+	margin-bottom: 10px;
+	display: inline-block;
+    padding: 10px 30px;
+    font-weight: 300;
+    text-decoration: none;
+    border-radius: 200px;
+    transition: background-color 0.2s, border 0.2s, color 0.2s;
+	background-color: #e67e22;
+    border: 1px solid #e67e22;
+    color: #fff;
+    margin-right: 15px;
+    transition: all 0.3s;
+}
+
+.button-submit:hover{
+	transform: scale(1.2);
+}
+
+
+/* ------------------------------------------------*/
+
+
+/* HEADER */
+
+
+/* ------------------------------------------------*/
+
+header {
+    height: 100vh;
+    background-position: center;
+	color: #fff;
+}
+
+
+.hero-text-box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.main-nav {
+    list-style: none;
+    margin-top: 60px;
+}
+
+.main-nav li {
+    display: inline;
+    margin-left: 40px;
+}
+
+.main-nav li a:link,
+.main-nav li a:visited {
+    padding: 8px 0;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 90%;
+    border-bottom: 2px solid #e67e22 transparent;
+    transition: border-bottom 0.2s;
+}
+
+.main-nav li a:hover,
+.main-nav li a:active {
+    border-bottom: 2px solid #e67e22;
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+.column,
+.right-bar {
+    text-align: right;
+    padding: 20px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* ------------------------------------------------*/
+
+
+/* CONTENT */
+
+
+/* ------------------------------------------------*/
+
+.searchFilter {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Lato', 'Arial', sans-serif;
+}
+
+.showMovies {
+    margin: 5% 5%;
+    height: auto;
+    width: 90%;
+}
+
+.movieContainer {
+    display: inline-block;
+    height: 350px;
+    width: 300px;
+    padding-right: 30px;
+    margin-bottom: 160px;
+}
+
+.movie-title {
+    margin-top: 16px;
+    margin-bottom: 8px;
+    text-align: center;
+    width: 100%;
+}
+
+.movie-image {
+    width: 250px;
+    height: auto;
+    display: block;
+    padding: 0 0 10px 0;
+    margin: 0 auto;
+    transition: all 0.2s;
+}
+
+.movie-image:hover {
+    transform: scale(1.37);
+}
+
+.movie-cart {
+    display: inline-block;
+    margin: auto;
+    padding-left: 48%;
+}
+
+.movieContainer i {
+    display: inline-block;
+    transition: all 0.2s;
+    font-size: 32px;
+}
+
+.movieContainer i:hover {
+    color: #e67e22;
+}
+
+.movieContainer i:active {
+    transform: translateY(4px);
+}
+
+.reset-button {
+	
+		margin-left: 0;
+}
+
+.filter-button-section {
+	
+	margin: auto;
+    width: 50%;
+}
+
+.filter-button-section .button-submit {
+	
+	margin-top: 5px;
+	margin-bottom: 32px;	
+}
+
+input,select {
+	
+	height: 40px;
+}
+
+select {
+	
+	color: #000;
+   background-color: #fff;
+   background-repeat: no-repeat;
+   border-radius: 20px;
+   padding-left: 15px;
+	
+}

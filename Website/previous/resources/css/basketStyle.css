@@ -1,0 +1,102 @@
+html{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+	font-size: 1rem;
+}
+
+html{
+    background-color: #fff;
+    color: #fff;
+    font-family: 'Lato', 'Arial', sans-serif;
+    font-weight: 300;
+    font-size: 1.2rem;
+    text-rendering: optimizeLegibility;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(img/moviesWallpaper.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+
+/* ------------------------------------------------*/
+/* HEADER */
+/* ------------------------------------------------*/	
+.main-nav{
+    float: right;
+    list-style: none;
+    margin-top: 60px;
+}
+
+.main-nav li{
+    display: inline;
+    margin-left: 40px;
+}
+
+.main-nav li a:link,
+.main-nav li a:visited{
+    padding: 8px 0;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 90%;
+    border-bottom:  2px solid #e67e22 transparent;
+    transition: border-bottom 0.2s;
+}
+
+.main-nav li a:hover,
+.main-nav li a:active{
+    border-bottom:  2px solid #e67e22;
+}
+
+/* ------------------------------------------------*/
+/* Table*/
+/* ------------------------------------------------*/
+
+/*
+
+table, tr{
+	border: 3px solid #e67e22;
+	margin: 10% auto;
+}
+
+*/
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 60%;
+	margin: 10% auto;
+    /*border: 1px solid #e67e22;*/
+	
+}
+
+th, td {
+    text-align: center;
+    padding: 16px;
+}
+
+th:first-child, td:first-child {
+    text-align: left;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+	color: black;
+}
+
+tr {
+	transition: all 0.2s;
+}
+
+tr:not(:first-child):hover {
+	background-color: #e67e22;
+}
+
+tr:last-child {
+	background-color: #e6b522;
+}
+
+tr:last-child:hover {
+	background-color: #e6b522;
+}
+

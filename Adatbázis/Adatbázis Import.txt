@@ -1,0 +1,7 @@
+Adatbázis helyes importálásához a php.ini-t módosítani kell az alábbi elemekre
+a, post_max_size
+b, upload_max_filesize
+
+mind a kettõnek a max limitjét 30mb-ra kell állítani, tehát az alábbi módon kell hogy kinézzen:
+a, post_max_size=30M
+b upload_max_filesize=20M

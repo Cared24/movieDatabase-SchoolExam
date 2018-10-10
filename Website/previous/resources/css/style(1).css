@@ -1,0 +1,145 @@
+/*
+Orange Color: #e67e22
+
+*/
+
+/* ------------------------------------------------*/
+/* BASIC SETUP */
+/* ------------------------------------------------*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+	font-size: 1rem;
+}
+
+html{
+    background-color: #fff;
+    color: #555;
+    font-family: 'Lato', 'Arial', sans-serif;
+    font-weight: 300;
+    font-size: 1.2rem;
+    text-rendering: optimizeLegibility;
+}
+
+/* ------------------------------------------------*/
+/* REUSABLE COMPONENTS */
+/* ------------------------------------------------*/
+
+
+.row{
+    max-width: 1140px;
+    margin: 0 auto;
+	font-size: inherit;
+	padding: 0 15%;
+}
+
+
+
+h1{
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: #fff;
+    font-size: 3rem;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    word-spacing: 4px;
+    
+}
+
+
+/* ------------------------------------------------*/
+/* BUTTONS */
+/* ------------------------------------------------*/
+.btn:link,
+.btn:visited{
+    display: inline-block;
+    padding: 10px 30px;
+    font-weight: 300;
+    text-decoration: none;
+    border-radius: 200px;
+    transition: background-color 0.2s, border 0.2s, color 0.2s;
+}
+
+.btn-full:link,
+.btn-full:visited{
+    background-color: #e67e22;
+    border: 1px solid #e67e22;
+    color: #fff;
+    margin-right: 15px;
+		transition: all 0.3s;    
+
+}
+
+.btn-ghost:link,
+.btn-ghost:visited{
+    border: 1px solid;
+    color: #e67e22;
+}
+
+.btn:hover,
+.btn:active{
+    background-color: #cf6d17;
+}
+
+.btn-full:hover,
+.btn-full:active{
+    background-color: #cf6d17;
+	transform: scale(1.2);
+	box-shadow: 0 10px 40px rgba(#fff, 0.2);
+}
+
+.btn-ghost:hover,
+.btn-ghost:active{
+    background-color: #cf6d17;
+    color: #fff;
+}
+
+
+/* ------------------------------------------------*/
+/* HEADER */
+/* ------------------------------------------------*/
+
+header{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(img/hero.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+
+.hero-text-box{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.main-nav{
+    float: right;
+    list-style: none;
+    margin-top: 60px;
+}
+
+.main-nav li{
+    display: inline;
+    margin-left: 40px;
+}
+
+.main-nav li a:link,
+.main-nav li a:visited{
+    padding: 8px 0;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 90%;
+    border-bottom:  2px solid #e67e22 transparent;
+    transition: border-bottom 0.2s;
+}
+
+.main-nav li a:hover,
+.main-nav li a:active{
+    border-bottom:  2px solid #e67e22;
+}
+

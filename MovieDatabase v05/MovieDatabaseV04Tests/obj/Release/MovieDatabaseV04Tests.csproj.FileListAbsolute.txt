@@ -1,0 +1,36 @@
+C:\Users\ponus\Desktop\MovieDatabase v05 03.27 15ora 05p\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04Tests\obj\Release\MovieDatabaseV04Tests.csprojResolveAssemblyReference.cache
+C:\Users\ponus\Desktop\MovieDatabase v05 03.27 15ora 05p\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04Tests\obj\Release\MovieDatabaseV04Tests.csproj.CoreCompileInputs.cache
+C:\Users\ponus\Desktop\MovieDatabase v05 03.27 15ora 05p\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ponus\Desktop\MovieDatabase v05 03.27 15ora 05p\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ponus\Desktop\MovieDatabase v05 03.27 15ora 05p\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ponus\Desktop\MovieDatabase v05 03.27 15ora 05p\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04Tests\bin\Release\MovieDatabaseV04Tests.dll
+C:\Users\ponus\Desktop\MovieDatabase v05 03.27 15ora 05p\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04Tests\bin\Release\MovieDatabaseV04Tests.pdb
+C:\Users\ponus\Desktop\MovieDatabase v05 03.27 15ora 05p\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ponus\Desktop\MovieDatabase v05 03.27 15ora 05p\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ponus\Desktop\MovieDatabase v05 03.27 15ora 05p\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04Tests\bin\Release\MovieDatabaseV04.exe
+C:\Users\ponus\Desktop\MovieDatabase v05 03.27 15ora 05p\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04Tests\bin\Release\MySql.Data.dll
+C:\Users\ponus\Desktop\MovieDatabase v05 03.27 15ora 05p\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04Tests\bin\Release\MovieDatabaseV04.pdb
+C:\Users\ponus\Desktop\MovieDatabase v05 03.27 15ora 05p\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04Tests\bin\Release\MovieDatabaseV04.exe.config
+C:\Users\ponus\Desktop\MovieDatabase v05 03.27 15ora 05p\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ponus\Desktop\MovieDatabase v05 03.27 15ora 05p\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ponus\Desktop\MovieDatabase v05 03.27 15ora 05p\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04Tests\bin\Release\MySql.Data.xml
+C:\Users\ponus\Desktop\MovieDatabase v05 03.27 15ora 05p\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04Tests\obj\Release\MovieDatabaseV04Tests.dll
+C:\Users\ponus\Desktop\MovieDatabase v05 03.27 15ora 05p\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04Tests\obj\Release\MovieDatabaseV04Tests.pdb
+E:\SULI\Szakdolgozat\Záródolgozat - otthoni verzió\MovieDatabase v05\MovieDatabaseV04Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\SULI\Szakdolgozat\Záródolgozat - otthoni verzió\MovieDatabase v05\MovieDatabaseV04Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\SULI\Szakdolgozat\Záródolgozat - otthoni verzió\MovieDatabase v05\MovieDatabaseV04Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\SULI\Szakdolgozat\Záródolgozat - otthoni verzió\MovieDatabase v05\MovieDatabaseV04Tests\bin\Release\MovieDatabaseV04Tests.dll
+E:\SULI\Szakdolgozat\Záródolgozat - otthoni verzió\MovieDatabase v05\MovieDatabaseV04Tests\bin\Release\MovieDatabaseV04Tests.pdb
+E:\SULI\Szakdolgozat\Záródolgozat - otthoni verzió\MovieDatabase v05\MovieDatabaseV04Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\SULI\Szakdolgozat\Záródolgozat - otthoni verzió\MovieDatabase v05\MovieDatabaseV04Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\SULI\Szakdolgozat\Záródolgozat - otthoni verzió\MovieDatabase v05\MovieDatabaseV04Tests\bin\Release\MovieDatabaseV04.exe
+E:\SULI\Szakdolgozat\Záródolgozat - otthoni verzió\MovieDatabase v05\MovieDatabaseV04Tests\bin\Release\MySql.Data.dll
+E:\SULI\Szakdolgozat\Záródolgozat - otthoni verzió\MovieDatabase v05\MovieDatabaseV04Tests\bin\Release\MovieDatabaseV04.pdb
+E:\SULI\Szakdolgozat\Záródolgozat - otthoni verzió\MovieDatabase v05\MovieDatabaseV04Tests\bin\Release\MovieDatabaseV04.exe.config
+E:\SULI\Szakdolgozat\Záródolgozat - otthoni verzió\MovieDatabase v05\MovieDatabaseV04Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\SULI\Szakdolgozat\Záródolgozat - otthoni verzió\MovieDatabase v05\MovieDatabaseV04Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\SULI\Szakdolgozat\Záródolgozat - otthoni verzió\MovieDatabase v05\MovieDatabaseV04Tests\bin\Release\MySql.Data.xml
+E:\SULI\Szakdolgozat\Záródolgozat - otthoni verzió\MovieDatabase v05\MovieDatabaseV04Tests\obj\Release\MovieDatabaseV04Tests.csprojResolveAssemblyReference.cache
+E:\SULI\Szakdolgozat\Záródolgozat - otthoni verzió\MovieDatabase v05\MovieDatabaseV04Tests\obj\Release\MovieDatabaseV04Tests.csproj.CoreCompileInputs.cache
+E:\SULI\Szakdolgozat\Záródolgozat - otthoni verzió\MovieDatabase v05\MovieDatabaseV04Tests\obj\Release\MovieDatabaseV04Tests.dll
+E:\SULI\Szakdolgozat\Záródolgozat - otthoni verzió\MovieDatabase v05\MovieDatabaseV04Tests\obj\Release\MovieDatabaseV04Tests.pdb

@@ -1,0 +1,7 @@
+Asztali alkalmazásra való belépés
+username: admin
+password: admin
+
+Webes felületen példa felhasználó:
+username: username
+password: password

@@ -1,0 +1,345 @@
+c:\users\ponus\source\repos\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe.config
+c:\users\ponus\source\repos\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe
+c:\users\ponus\source\repos\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.pdb
+c:\users\ponus\source\repos\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MySql.Data.dll
+c:\users\ponus\source\repos\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csprojResolveAssemblyReference.cache
+c:\users\ponus\source\repos\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormAboutUs.resources
+c:\users\ponus\source\repos\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormEditMovie.resources
+c:\users\ponus\source\repos\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormLogin.resources
+c:\users\ponus\source\repos\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovieDatabaseProject.resources
+c:\users\ponus\source\repos\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovies.resources
+c:\users\ponus\source\repos\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormOrders.resources
+c:\users\ponus\source\repos\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormUsers.resources
+c:\users\ponus\source\repos\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.Properties.Resources.resources
+c:\users\ponus\source\repos\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.GenerateResource.Cache
+c:\users\ponus\source\repos\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.CoreCompileInputs.cache
+c:\users\ponus\source\repos\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.exe
+c:\users\ponus\source\repos\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.pdb
+C:\Users\sz6ponric\Downloads\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csprojResolveAssemblyReference.cache
+C:\Users\sz6ponric\Downloads\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormAboutUs.resources
+C:\Users\sz6ponric\Downloads\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormEditMovie.resources
+C:\Users\sz6ponric\Downloads\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormLogin.resources
+C:\Users\sz6ponric\Downloads\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovieDatabaseProject.resources
+C:\Users\sz6ponric\Downloads\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovies.resources
+C:\Users\sz6ponric\Downloads\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormOrders.resources
+C:\Users\sz6ponric\Downloads\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormUsers.resources
+C:\Users\sz6ponric\Downloads\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.Properties.Resources.resources
+C:\Users\sz6ponric\Downloads\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.GenerateResource.Cache
+C:\Users\sz6ponric\Downloads\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.CoreCompileInputs.cache
+C:\Users\sz6ponric\Downloads\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.exe
+C:\Users\sz6ponric\Downloads\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.pdb
+C:\Users\sz6ponric\Downloads\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe.config
+C:\Users\sz6ponric\Downloads\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe
+C:\Users\sz6ponric\Downloads\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.pdb
+C:\Users\sz6ponric\Downloads\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MySql.Data.dll
+C:\Users\sz6ponric\Desktop\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csprojResolveAssemblyReference.cache
+C:\Users\sz6ponric\Desktop\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormAboutUs.resources
+C:\Users\sz6ponric\Desktop\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormEditMovie.resources
+C:\Users\sz6ponric\Desktop\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormLogin.resources
+C:\Users\sz6ponric\Desktop\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovieDatabaseProject.resources
+C:\Users\sz6ponric\Desktop\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovies.resources
+C:\Users\sz6ponric\Desktop\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormOrders.resources
+C:\Users\sz6ponric\Desktop\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormUsers.resources
+C:\Users\sz6ponric\Desktop\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.Properties.Resources.resources
+C:\Users\sz6ponric\Desktop\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.GenerateResource.Cache
+C:\Users\sz6ponric\Desktop\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.CoreCompileInputs.cache
+C:\Users\sz6ponric\Desktop\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.exe
+C:\Users\sz6ponric\Desktop\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.pdb
+C:\Users\sz6ponric\Desktop\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe.config
+C:\Users\sz6ponric\Desktop\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe
+C:\Users\sz6ponric\Desktop\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.pdb
+C:\Users\sz6ponric\Desktop\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MySql.Data.dll
+C:\Users\sz6ponric\Desktop\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormUserOrders.resources
+C:\Users\Csokis\source\repos\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csprojResolveAssemblyReference.cache
+C:\Users\Csokis\source\repos\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormAboutUs.resources
+C:\Users\Csokis\source\repos\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormEditMovie.resources
+C:\Users\Csokis\source\repos\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormLogin.resources
+C:\Users\Csokis\source\repos\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovieDatabaseProject.resources
+C:\Users\Csokis\source\repos\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovies.resources
+C:\Users\Csokis\source\repos\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormOrders.resources
+C:\Users\Csokis\source\repos\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormUserOrders.resources
+C:\Users\Csokis\source\repos\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormUsers.resources
+C:\Users\Csokis\source\repos\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.Properties.Resources.resources
+C:\Users\Csokis\source\repos\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.GenerateResource.Cache
+C:\Users\Csokis\source\repos\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.CoreCompileInputs.cache
+C:\Users\Csokis\source\repos\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.exe
+C:\Users\Csokis\source\repos\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.pdb
+C:\Users\Csokis\source\repos\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe.config
+C:\Users\Csokis\source\repos\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe
+C:\Users\Csokis\source\repos\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.pdb
+C:\Users\Csokis\source\repos\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MySql.Data.dll
+C:\Users\Csokis\source\repos\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MySql.Data.xml
+C:\Users\sz6ponric\Downloads\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe.config
+C:\Users\sz6ponric\Downloads\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe
+C:\Users\sz6ponric\Downloads\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.pdb
+C:\Users\sz6ponric\Downloads\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MySql.Data.xml
+C:\Users\sz6ponric\Downloads\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csprojResolveAssemblyReference.cache
+C:\Users\sz6ponric\Downloads\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormAboutUs.resources
+C:\Users\sz6ponric\Downloads\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormEditMovie.resources
+C:\Users\sz6ponric\Downloads\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormLogin.resources
+C:\Users\sz6ponric\Downloads\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovieDatabaseProject.resources
+C:\Users\sz6ponric\Downloads\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovies.resources
+C:\Users\sz6ponric\Downloads\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormOrders.resources
+C:\Users\sz6ponric\Downloads\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormUserOrders.resources
+C:\Users\sz6ponric\Downloads\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormUsers.resources
+C:\Users\sz6ponric\Downloads\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.Properties.Resources.resources
+C:\Users\sz6ponric\Downloads\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.GenerateResource.Cache
+C:\Users\sz6ponric\Downloads\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.CoreCompileInputs.cache
+C:\Users\sz6ponric\Downloads\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.exe
+C:\Users\sz6ponric\Downloads\MovieDatabaseV04(03.09)\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.pdb
+C:\Users\ponus\Desktop\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe.config
+C:\Users\ponus\Desktop\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe
+C:\Users\ponus\Desktop\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.pdb
+C:\Users\ponus\Desktop\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MySql.Data.xml
+C:\Users\ponus\Desktop\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csprojResolveAssemblyReference.cache
+C:\Users\ponus\Desktop\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormAboutUs.resources
+C:\Users\ponus\Desktop\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormEditMovie.resources
+C:\Users\ponus\Desktop\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormLogin.resources
+C:\Users\ponus\Desktop\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovieDatabaseProject.resources
+C:\Users\ponus\Desktop\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovies.resources
+C:\Users\ponus\Desktop\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormOrders.resources
+C:\Users\ponus\Desktop\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormUsers.resources
+C:\Users\ponus\Desktop\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.Properties.Resources.resources
+C:\Users\ponus\Desktop\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.GenerateResource.Cache
+C:\Users\ponus\Desktop\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.CoreCompileInputs.cache
+C:\Users\ponus\Desktop\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.exe
+C:\Users\ponus\Desktop\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.pdb
+C:\Users\sz6ponric\Downloads\Szakdolgozat-20180317T161431Z-001\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe.config
+C:\Users\sz6ponric\Downloads\Szakdolgozat-20180317T161431Z-001\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe
+C:\Users\sz6ponric\Downloads\Szakdolgozat-20180317T161431Z-001\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.pdb
+C:\Users\sz6ponric\Downloads\Szakdolgozat-20180317T161431Z-001\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MySql.Data.xml
+C:\Users\sz6ponric\Downloads\Szakdolgozat-20180317T161431Z-001\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csprojResolveAssemblyReference.cache
+C:\Users\sz6ponric\Downloads\Szakdolgozat-20180317T161431Z-001\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormAboutUs.resources
+C:\Users\sz6ponric\Downloads\Szakdolgozat-20180317T161431Z-001\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormEditMovie.resources
+C:\Users\sz6ponric\Downloads\Szakdolgozat-20180317T161431Z-001\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormLogin.resources
+C:\Users\sz6ponric\Downloads\Szakdolgozat-20180317T161431Z-001\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovieDatabaseProject.resources
+C:\Users\sz6ponric\Downloads\Szakdolgozat-20180317T161431Z-001\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovies.resources
+C:\Users\sz6ponric\Downloads\Szakdolgozat-20180317T161431Z-001\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormOrders.resources
+C:\Users\sz6ponric\Downloads\Szakdolgozat-20180317T161431Z-001\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormUsers.resources
+C:\Users\sz6ponric\Downloads\Szakdolgozat-20180317T161431Z-001\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.Properties.Resources.resources
+C:\Users\sz6ponric\Downloads\Szakdolgozat-20180317T161431Z-001\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.GenerateResource.Cache
+C:\Users\sz6ponric\Downloads\Szakdolgozat-20180317T161431Z-001\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.CoreCompileInputs.cache
+C:\Users\sz6ponric\Downloads\Szakdolgozat-20180317T161431Z-001\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.exe
+C:\Users\sz6ponric\Downloads\Szakdolgozat-20180317T161431Z-001\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.pdb
+C:\Users\Szenti Bernadett\Downloads\Szakdolgozat(03.19)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe.config
+C:\Users\Szenti Bernadett\Downloads\Szakdolgozat(03.19)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe
+C:\Users\Szenti Bernadett\Downloads\Szakdolgozat(03.19)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.pdb
+C:\Users\Szenti Bernadett\Downloads\Szakdolgozat(03.19)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MySql.Data.dll
+C:\Users\Szenti Bernadett\Downloads\Szakdolgozat(03.19)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MySql.Data.xml
+C:\Users\Szenti Bernadett\Downloads\Szakdolgozat(03.19)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csprojResolveAssemblyReference.cache
+C:\Users\Szenti Bernadett\Downloads\Szakdolgozat(03.19)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormAboutUs.resources
+C:\Users\Szenti Bernadett\Downloads\Szakdolgozat(03.19)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormEditMovie.resources
+C:\Users\Szenti Bernadett\Downloads\Szakdolgozat(03.19)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormLogin.resources
+C:\Users\Szenti Bernadett\Downloads\Szakdolgozat(03.19)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovieDatabaseProject.resources
+C:\Users\Szenti Bernadett\Downloads\Szakdolgozat(03.19)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovies.resources
+C:\Users\Szenti Bernadett\Downloads\Szakdolgozat(03.19)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormOrders.resources
+C:\Users\Szenti Bernadett\Downloads\Szakdolgozat(03.19)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormUsers.resources
+C:\Users\Szenti Bernadett\Downloads\Szakdolgozat(03.19)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.Properties.Resources.resources
+C:\Users\Szenti Bernadett\Downloads\Szakdolgozat(03.19)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.GenerateResource.Cache
+C:\Users\Szenti Bernadett\Downloads\Szakdolgozat(03.19)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.CoreCompileInputs.cache
+C:\Users\Szenti Bernadett\Downloads\Szakdolgozat(03.19)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.exe
+C:\Users\Szenti Bernadett\Downloads\Szakdolgozat(03.19)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.pdb
+C:\Users\sz6ponric\Downloads\Szakdolgozat(03.19)v2Bernivel\Szakdolgozat(03.19)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe.config
+C:\Users\sz6ponric\Downloads\Szakdolgozat(03.19)v2Bernivel\Szakdolgozat(03.19)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe
+C:\Users\sz6ponric\Downloads\Szakdolgozat(03.19)v2Bernivel\Szakdolgozat(03.19)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.pdb
+C:\Users\sz6ponric\Downloads\Szakdolgozat(03.19)v2Bernivel\Szakdolgozat(03.19)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\bin\Debug\MySql.Data.xml
+C:\Users\sz6ponric\Downloads\Szakdolgozat(03.19)v2Bernivel\Szakdolgozat(03.19)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csprojResolveAssemblyReference.cache
+C:\Users\sz6ponric\Downloads\Szakdolgozat(03.19)v2Bernivel\Szakdolgozat(03.19)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormAboutUs.resources
+C:\Users\sz6ponric\Downloads\Szakdolgozat(03.19)v2Bernivel\Szakdolgozat(03.19)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormEditMovie.resources
+C:\Users\sz6ponric\Downloads\Szakdolgozat(03.19)v2Bernivel\Szakdolgozat(03.19)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormLogin.resources
+C:\Users\sz6ponric\Downloads\Szakdolgozat(03.19)v2Bernivel\Szakdolgozat(03.19)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovieDatabaseProject.resources
+C:\Users\sz6ponric\Downloads\Szakdolgozat(03.19)v2Bernivel\Szakdolgozat(03.19)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovies.resources
+C:\Users\sz6ponric\Downloads\Szakdolgozat(03.19)v2Bernivel\Szakdolgozat(03.19)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormOrders.resources
+C:\Users\sz6ponric\Downloads\Szakdolgozat(03.19)v2Bernivel\Szakdolgozat(03.19)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormUsers.resources
+C:\Users\sz6ponric\Downloads\Szakdolgozat(03.19)v2Bernivel\Szakdolgozat(03.19)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.Properties.Resources.resources
+C:\Users\sz6ponric\Downloads\Szakdolgozat(03.19)v2Bernivel\Szakdolgozat(03.19)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.GenerateResource.Cache
+C:\Users\sz6ponric\Downloads\Szakdolgozat(03.19)v2Bernivel\Szakdolgozat(03.19)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.CoreCompileInputs.cache
+C:\Users\sz6ponric\Downloads\Szakdolgozat(03.19)v2Bernivel\Szakdolgozat(03.19)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.exe
+C:\Users\sz6ponric\Downloads\Szakdolgozat(03.19)v2Bernivel\Szakdolgozat(03.19)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\MovieDatabaseV04\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.pdb
+C:\Users\sz6ponric\Downloads\Szakdolgozat (03.21 14ora17perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe.config
+C:\Users\sz6ponric\Downloads\Szakdolgozat (03.21 14ora17perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe
+C:\Users\sz6ponric\Downloads\Szakdolgozat (03.21 14ora17perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.pdb
+C:\Users\sz6ponric\Downloads\Szakdolgozat (03.21 14ora17perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\bin\Debug\MySql.Data.xml
+C:\Users\sz6ponric\Downloads\Szakdolgozat (03.21 14ora17perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csprojResolveAssemblyReference.cache
+C:\Users\sz6ponric\Downloads\Szakdolgozat (03.21 14ora17perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormAboutUs.resources
+C:\Users\sz6ponric\Downloads\Szakdolgozat (03.21 14ora17perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormEditMovie.resources
+C:\Users\sz6ponric\Downloads\Szakdolgozat (03.21 14ora17perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormLogin.resources
+C:\Users\sz6ponric\Downloads\Szakdolgozat (03.21 14ora17perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovieDatabaseProject.resources
+C:\Users\sz6ponric\Downloads\Szakdolgozat (03.21 14ora17perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovies.resources
+C:\Users\sz6ponric\Downloads\Szakdolgozat (03.21 14ora17perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormOrders.resources
+C:\Users\sz6ponric\Downloads\Szakdolgozat (03.21 14ora17perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormUsers.resources
+C:\Users\sz6ponric\Downloads\Szakdolgozat (03.21 14ora17perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.Properties.Resources.resources
+C:\Users\sz6ponric\Downloads\Szakdolgozat (03.21 14ora17perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.GenerateResource.Cache
+C:\Users\sz6ponric\Downloads\Szakdolgozat (03.21 14ora17perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.CoreCompileInputs.cache
+C:\Users\sz6ponric\Downloads\Szakdolgozat (03.21 14ora17perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.exe
+C:\Users\sz6ponric\Downloads\Szakdolgozat (03.21 14ora17perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.pdb
+C:\Users\sz6ponric\Downloads\Szakdolgozat (03.22 9ora 39perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe.config
+C:\Users\sz6ponric\Downloads\Szakdolgozat (03.22 9ora 39perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe
+C:\Users\sz6ponric\Downloads\Szakdolgozat (03.22 9ora 39perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.pdb
+C:\Users\sz6ponric\Downloads\Szakdolgozat (03.22 9ora 39perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\bin\Debug\MySql.Data.xml
+C:\Users\sz6ponric\Downloads\Szakdolgozat (03.22 9ora 39perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csprojResolveAssemblyReference.cache
+C:\Users\sz6ponric\Downloads\Szakdolgozat (03.22 9ora 39perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormAboutUs.resources
+C:\Users\sz6ponric\Downloads\Szakdolgozat (03.22 9ora 39perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormEditMovie.resources
+C:\Users\sz6ponric\Downloads\Szakdolgozat (03.22 9ora 39perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormLogin.resources
+C:\Users\sz6ponric\Downloads\Szakdolgozat (03.22 9ora 39perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovieDatabaseProject.resources
+C:\Users\sz6ponric\Downloads\Szakdolgozat (03.22 9ora 39perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovies.resources
+C:\Users\sz6ponric\Downloads\Szakdolgozat (03.22 9ora 39perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormOrders.resources
+C:\Users\sz6ponric\Downloads\Szakdolgozat (03.22 9ora 39perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormUsers.resources
+C:\Users\sz6ponric\Downloads\Szakdolgozat (03.22 9ora 39perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.Properties.Resources.resources
+C:\Users\sz6ponric\Downloads\Szakdolgozat (03.22 9ora 39perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.GenerateResource.Cache
+C:\Users\sz6ponric\Downloads\Szakdolgozat (03.22 9ora 39perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.CoreCompileInputs.cache
+C:\Users\sz6ponric\Downloads\Szakdolgozat (03.22 9ora 39perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.exe
+C:\Users\sz6ponric\Downloads\Szakdolgozat (03.22 9ora 39perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.pdb
+C:\Users\ponus\Desktop\Szakdolgozat (03.22 13ora 17perc)\Szakdolgozat (03.22 13ora 17perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe.config
+C:\Users\ponus\Desktop\Szakdolgozat (03.22 13ora 17perc)\Szakdolgozat (03.22 13ora 17perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe
+C:\Users\ponus\Desktop\Szakdolgozat (03.22 13ora 17perc)\Szakdolgozat (03.22 13ora 17perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.pdb
+C:\Users\ponus\Desktop\Szakdolgozat (03.22 13ora 17perc)\Szakdolgozat (03.22 13ora 17perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\bin\Debug\MySql.Data.xml
+C:\Users\ponus\Desktop\Szakdolgozat (03.22 13ora 17perc)\Szakdolgozat (03.22 13ora 17perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csprojResolveAssemblyReference.cache
+C:\Users\ponus\Desktop\Szakdolgozat (03.22 13ora 17perc)\Szakdolgozat (03.22 13ora 17perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormAboutUs.resources
+C:\Users\ponus\Desktop\Szakdolgozat (03.22 13ora 17perc)\Szakdolgozat (03.22 13ora 17perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormEditMovie.resources
+C:\Users\ponus\Desktop\Szakdolgozat (03.22 13ora 17perc)\Szakdolgozat (03.22 13ora 17perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormLogin.resources
+C:\Users\ponus\Desktop\Szakdolgozat (03.22 13ora 17perc)\Szakdolgozat (03.22 13ora 17perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovieDatabaseProject.resources
+C:\Users\ponus\Desktop\Szakdolgozat (03.22 13ora 17perc)\Szakdolgozat (03.22 13ora 17perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovies.resources
+C:\Users\ponus\Desktop\Szakdolgozat (03.22 13ora 17perc)\Szakdolgozat (03.22 13ora 17perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormOrders.resources
+C:\Users\ponus\Desktop\Szakdolgozat (03.22 13ora 17perc)\Szakdolgozat (03.22 13ora 17perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormUsers.resources
+C:\Users\ponus\Desktop\Szakdolgozat (03.22 13ora 17perc)\Szakdolgozat (03.22 13ora 17perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.Properties.Resources.resources
+C:\Users\ponus\Desktop\Szakdolgozat (03.22 13ora 17perc)\Szakdolgozat (03.22 13ora 17perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.GenerateResource.Cache
+C:\Users\ponus\Desktop\Szakdolgozat (03.22 13ora 17perc)\Szakdolgozat (03.22 13ora 17perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.CoreCompileInputs.cache
+C:\Users\ponus\Desktop\Szakdolgozat (03.22 13ora 17perc)\Szakdolgozat (03.22 13ora 17perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.exe
+C:\Users\ponus\Desktop\Szakdolgozat (03.22 13ora 17perc)\Szakdolgozat (03.22 13ora 17perc)\Szakdolgozat\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.pdb
+C:\Users\ponus\Desktop\Szakdolgozat (03.25) 00óra 00perc\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe.config
+C:\Users\ponus\Desktop\Szakdolgozat (03.25) 00óra 00perc\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe
+C:\Users\ponus\Desktop\Szakdolgozat (03.25) 00óra 00perc\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.pdb
+C:\Users\ponus\Desktop\Szakdolgozat (03.25) 00óra 00perc\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\bin\Debug\MySql.Data.xml
+C:\Users\ponus\Desktop\Szakdolgozat (03.25) 00óra 00perc\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csprojResolveAssemblyReference.cache
+C:\Users\ponus\Desktop\Szakdolgozat (03.25) 00óra 00perc\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormAboutUs.resources
+C:\Users\ponus\Desktop\Szakdolgozat (03.25) 00óra 00perc\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormEditMovie.resources
+C:\Users\ponus\Desktop\Szakdolgozat (03.25) 00óra 00perc\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormLogin.resources
+C:\Users\ponus\Desktop\Szakdolgozat (03.25) 00óra 00perc\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovieDatabaseProject.resources
+C:\Users\ponus\Desktop\Szakdolgozat (03.25) 00óra 00perc\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovies.resources
+C:\Users\ponus\Desktop\Szakdolgozat (03.25) 00óra 00perc\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormOrders.resources
+C:\Users\ponus\Desktop\Szakdolgozat (03.25) 00óra 00perc\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormUsers.resources
+C:\Users\ponus\Desktop\Szakdolgozat (03.25) 00óra 00perc\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.Properties.Resources.resources
+C:\Users\ponus\Desktop\Szakdolgozat (03.25) 00óra 00perc\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.GenerateResource.Cache
+C:\Users\ponus\Desktop\Szakdolgozat (03.25) 00óra 00perc\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.CoreCompileInputs.cache
+C:\Users\ponus\Desktop\Szakdolgozat (03.25) 00óra 00perc\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.exe
+C:\Users\ponus\Desktop\Szakdolgozat (03.25) 00óra 00perc\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.pdb
+C:\Users\ponus\Desktop\Szakdolgozat (03.25) 00óra 00perc\Movie Database - Pónusz Richárd\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe.config
+C:\Users\ponus\Desktop\Szakdolgozat (03.25) 00óra 00perc\Movie Database - Pónusz Richárd\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe
+C:\Users\ponus\Desktop\Szakdolgozat (03.25) 00óra 00perc\Movie Database - Pónusz Richárd\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.pdb
+C:\Users\ponus\Desktop\Szakdolgozat (03.25) 00óra 00perc\Movie Database - Pónusz Richárd\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\bin\Debug\MySql.Data.xml
+C:\Users\ponus\Desktop\Szakdolgozat (03.25) 00óra 00perc\Movie Database - Pónusz Richárd\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csprojResolveAssemblyReference.cache
+C:\Users\ponus\Desktop\Szakdolgozat (03.25) 00óra 00perc\Movie Database - Pónusz Richárd\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormAboutUs.resources
+C:\Users\ponus\Desktop\Szakdolgozat (03.25) 00óra 00perc\Movie Database - Pónusz Richárd\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormEditMovie.resources
+C:\Users\ponus\Desktop\Szakdolgozat (03.25) 00óra 00perc\Movie Database - Pónusz Richárd\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormLogin.resources
+C:\Users\ponus\Desktop\Szakdolgozat (03.25) 00óra 00perc\Movie Database - Pónusz Richárd\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovieDatabaseProject.resources
+C:\Users\ponus\Desktop\Szakdolgozat (03.25) 00óra 00perc\Movie Database - Pónusz Richárd\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovies.resources
+C:\Users\ponus\Desktop\Szakdolgozat (03.25) 00óra 00perc\Movie Database - Pónusz Richárd\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormOrders.resources
+C:\Users\ponus\Desktop\Szakdolgozat (03.25) 00óra 00perc\Movie Database - Pónusz Richárd\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormUsers.resources
+C:\Users\ponus\Desktop\Szakdolgozat (03.25) 00óra 00perc\Movie Database - Pónusz Richárd\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.Properties.Resources.resources
+C:\Users\ponus\Desktop\Szakdolgozat (03.25) 00óra 00perc\Movie Database - Pónusz Richárd\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.GenerateResource.Cache
+C:\Users\ponus\Desktop\Szakdolgozat (03.25) 00óra 00perc\Movie Database - Pónusz Richárd\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.CoreCompileInputs.cache
+C:\Users\ponus\Desktop\Szakdolgozat (03.25) 00óra 00perc\Movie Database - Pónusz Richárd\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.exe
+C:\Users\ponus\Desktop\Szakdolgozat (03.25) 00óra 00perc\Movie Database - Pónusz Richárd\Desktop\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.pdb
+D:\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe.config
+D:\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe
+D:\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.pdb
+D:\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\bin\Debug\MySql.Data.xml
+D:\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csprojResolveAssemblyReference.cache
+D:\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormAboutUs.resources
+D:\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormEditMovie.resources
+D:\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormLogin.resources
+D:\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovieDatabaseProject.resources
+D:\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovies.resources
+D:\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormOrders.resources
+D:\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormUsers.resources
+D:\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.Properties.Resources.resources
+D:\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.GenerateResource.Cache
+D:\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.CoreCompileInputs.cache
+D:\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.exe
+D:\MovieDatabaseV04(2018.03.17)\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.pdb
+D:\MovieDatabase v05 03.27 10ora 30p\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe.config
+D:\MovieDatabase v05 03.27 10ora 30p\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe
+D:\MovieDatabase v05 03.27 10ora 30p\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.pdb
+D:\MovieDatabase v05 03.27 10ora 30p\MovieDatabaseV04\bin\Debug\MySql.Data.xml
+D:\MovieDatabase v05 03.27 10ora 30p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csprojResolveAssemblyReference.cache
+D:\MovieDatabase v05 03.27 10ora 30p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormAboutUs.resources
+D:\MovieDatabase v05 03.27 10ora 30p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormEditMovie.resources
+D:\MovieDatabase v05 03.27 10ora 30p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormLogin.resources
+D:\MovieDatabase v05 03.27 10ora 30p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovieDatabaseProject.resources
+D:\MovieDatabase v05 03.27 10ora 30p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovies.resources
+D:\MovieDatabase v05 03.27 10ora 30p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormOrders.resources
+D:\MovieDatabase v05 03.27 10ora 30p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormUsers.resources
+D:\MovieDatabase v05 03.27 10ora 30p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.Properties.Resources.resources
+D:\MovieDatabase v05 03.27 10ora 30p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.GenerateResource.Cache
+D:\MovieDatabase v05 03.27 10ora 30p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.CoreCompileInputs.cache
+D:\MovieDatabase v05 03.27 10ora 30p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.exe
+D:\MovieDatabase v05 03.27 10ora 30p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.pdb
+C:\Users\sz6ponric\Desktop\MovieDatabase v05 03.27 10ora 30p\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe.config
+C:\Users\sz6ponric\Desktop\MovieDatabase v05 03.27 10ora 30p\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe
+C:\Users\sz6ponric\Desktop\MovieDatabase v05 03.27 10ora 30p\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.pdb
+C:\Users\sz6ponric\Desktop\MovieDatabase v05 03.27 10ora 30p\MovieDatabaseV04\bin\Debug\MySql.Data.xml
+C:\Users\sz6ponric\Desktop\MovieDatabase v05 03.27 10ora 30p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csprojResolveAssemblyReference.cache
+C:\Users\sz6ponric\Desktop\MovieDatabase v05 03.27 10ora 30p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormAboutUs.resources
+C:\Users\sz6ponric\Desktop\MovieDatabase v05 03.27 10ora 30p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormEditMovie.resources
+C:\Users\sz6ponric\Desktop\MovieDatabase v05 03.27 10ora 30p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormLogin.resources
+C:\Users\sz6ponric\Desktop\MovieDatabase v05 03.27 10ora 30p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovieDatabaseProject.resources
+C:\Users\sz6ponric\Desktop\MovieDatabase v05 03.27 10ora 30p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovies.resources
+C:\Users\sz6ponric\Desktop\MovieDatabase v05 03.27 10ora 30p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormOrders.resources
+C:\Users\sz6ponric\Desktop\MovieDatabase v05 03.27 10ora 30p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormUsers.resources
+C:\Users\sz6ponric\Desktop\MovieDatabase v05 03.27 10ora 30p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.Properties.Resources.resources
+C:\Users\sz6ponric\Desktop\MovieDatabase v05 03.27 10ora 30p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.GenerateResource.Cache
+C:\Users\sz6ponric\Desktop\MovieDatabase v05 03.27 10ora 30p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.CoreCompileInputs.cache
+C:\Users\sz6ponric\Desktop\MovieDatabase v05 03.27 10ora 30p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.exe
+C:\Users\sz6ponric\Desktop\MovieDatabase v05 03.27 10ora 30p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.pdb
+c:\Users\Macko-7\Downloads\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe.config
+c:\Users\Macko-7\Downloads\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe
+c:\Users\Macko-7\Downloads\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.pdb
+c:\Users\Macko-7\Downloads\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04\bin\Debug\MySql.Data.xml
+c:\Users\Macko-7\Downloads\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csprojResolveAssemblyReference.cache
+c:\Users\Macko-7\Downloads\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormAboutUs.resources
+c:\Users\Macko-7\Downloads\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormEditMovie.resources
+c:\Users\Macko-7\Downloads\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormLogin.resources
+c:\Users\Macko-7\Downloads\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovieDatabaseProject.resources
+c:\Users\Macko-7\Downloads\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovies.resources
+c:\Users\Macko-7\Downloads\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormOrders.resources
+c:\Users\Macko-7\Downloads\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormUsers.resources
+c:\Users\Macko-7\Downloads\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.Properties.Resources.resources
+c:\Users\Macko-7\Downloads\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.GenerateResource.Cache
+c:\Users\Macko-7\Downloads\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.CoreCompileInputs.cache
+c:\Users\Macko-7\Downloads\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.exe
+c:\Users\Macko-7\Downloads\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.pdb
+C:\Users\ponus\Desktop\MovieDatabase v05 03.27 15ora 05p\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe.config
+C:\Users\ponus\Desktop\MovieDatabase v05 03.27 15ora 05p\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe
+C:\Users\ponus\Desktop\MovieDatabase v05 03.27 15ora 05p\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.pdb
+C:\Users\ponus\Desktop\MovieDatabase v05 03.27 15ora 05p\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04\bin\Debug\MySql.Data.xml
+C:\Users\ponus\Desktop\MovieDatabase v05 03.27 15ora 05p\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csprojResolveAssemblyReference.cache
+C:\Users\ponus\Desktop\MovieDatabase v05 03.27 15ora 05p\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormAboutUs.resources
+C:\Users\ponus\Desktop\MovieDatabase v05 03.27 15ora 05p\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormEditMovie.resources
+C:\Users\ponus\Desktop\MovieDatabase v05 03.27 15ora 05p\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormLogin.resources
+C:\Users\ponus\Desktop\MovieDatabase v05 03.27 15ora 05p\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovieDatabaseProject.resources
+C:\Users\ponus\Desktop\MovieDatabase v05 03.27 15ora 05p\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovies.resources
+C:\Users\ponus\Desktop\MovieDatabase v05 03.27 15ora 05p\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormOrders.resources
+C:\Users\ponus\Desktop\MovieDatabase v05 03.27 15ora 05p\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormUsers.resources
+C:\Users\ponus\Desktop\MovieDatabase v05 03.27 15ora 05p\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.Properties.Resources.resources
+C:\Users\ponus\Desktop\MovieDatabase v05 03.27 15ora 05p\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.GenerateResource.Cache
+C:\Users\ponus\Desktop\MovieDatabase v05 03.27 15ora 05p\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.CoreCompileInputs.cache
+C:\Users\ponus\Desktop\MovieDatabase v05 03.27 15ora 05p\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.exe
+C:\Users\ponus\Desktop\MovieDatabase v05 03.27 15ora 05p\MovieDatabase v05 03.27 15ora 05p\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.pdb
+E:\SULI\Szakdolgozat\Záródolgozat - otthoni verzió\MovieDatabase v05\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe.config
+E:\SULI\Szakdolgozat\Záródolgozat - otthoni verzió\MovieDatabase v05\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.exe
+E:\SULI\Szakdolgozat\Záródolgozat - otthoni verzió\MovieDatabase v05\MovieDatabaseV04\bin\Debug\MovieDatabaseV04.pdb
+E:\SULI\Szakdolgozat\Záródolgozat - otthoni verzió\MovieDatabase v05\MovieDatabaseV04\bin\Debug\MySql.Data.xml
+E:\SULI\Szakdolgozat\Záródolgozat - otthoni verzió\MovieDatabase v05\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csprojResolveAssemblyReference.cache
+E:\SULI\Szakdolgozat\Záródolgozat - otthoni verzió\MovieDatabase v05\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormAboutUs.resources
+E:\SULI\Szakdolgozat\Záródolgozat - otthoni verzió\MovieDatabase v05\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormEditMovie.resources
+E:\SULI\Szakdolgozat\Záródolgozat - otthoni verzió\MovieDatabase v05\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormLogin.resources
+E:\SULI\Szakdolgozat\Záródolgozat - otthoni verzió\MovieDatabase v05\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovieDatabaseProject.resources
+E:\SULI\Szakdolgozat\Záródolgozat - otthoni verzió\MovieDatabase v05\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormMovies.resources
+E:\SULI\Szakdolgozat\Záródolgozat - otthoni verzió\MovieDatabase v05\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormOrders.resources
+E:\SULI\Szakdolgozat\Záródolgozat - otthoni verzió\MovieDatabase v05\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.FormUsers.resources
+E:\SULI\Szakdolgozat\Záródolgozat - otthoni verzió\MovieDatabase v05\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.Properties.Resources.resources
+E:\SULI\Szakdolgozat\Záródolgozat - otthoni verzió\MovieDatabase v05\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.GenerateResource.Cache
+E:\SULI\Szakdolgozat\Záródolgozat - otthoni verzió\MovieDatabase v05\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.csproj.CoreCompileInputs.cache
+E:\SULI\Szakdolgozat\Záródolgozat - otthoni verzió\MovieDatabase v05\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.exe
+E:\SULI\Szakdolgozat\Záródolgozat - otthoni verzió\MovieDatabase v05\MovieDatabaseV04\obj\Debug\MovieDatabaseV04.pdb

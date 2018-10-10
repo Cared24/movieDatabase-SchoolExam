@@ -1,0 +1,206 @@
+/* ------------------------------------------------*/
+
+
+/* BASIC SETUP */
+
+
+/* ------------------------------------------------*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 1rem;
+}
+
+html {
+    background-color: #fff;
+    color: #fff;
+    font-family: 'Lato', 'Arial', sans-serif;
+    font-weight: 300;
+    font-size: 1.2rem;
+    text-rendering: optimizeLegibility;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/moviesWallpaper.jpg);
+}
+
+
+
+/* ------------------------------------------------*/
+
+
+/* REUSABLE COMPONENTS */
+
+
+/* ------------------------------------------------*/
+
+.row {
+    max-width: 1140px;
+    font-size: inherit;
+}
+
+
+
+/* ------------------------------------------------*/
+
+
+/* BUTTONS */
+
+
+/* ------------------------------------------------*/
+
+.hero-text-box {
+	position: relative;
+	left: 40%;
+	margin-bottom: 5%;
+}
+
+.empty-basket{
+	display: inline-block;
+    padding: 10px 30px;
+    font-weight: 300;
+    text-decoration: none;
+    border-radius: 200px;
+    transition: background-color 0.2s, border 0.2s, color 0.2s;
+	background-color: #fff;
+    border: 1px solid black;
+    color: black;
+    margin-right: 15px;
+    transition: all 0.3s;
+}
+
+#order-button{
+	display: inline-block;
+    padding: 10px 30px;
+    font-weight: 300;
+    text-decoration: none;
+    border-radius: 200px;
+    transition: background-color 0.2s, border 0.2s, color 0.2s;
+	background-color: #e6b522;
+    border: 1px solid #e6b522;
+    color: #fff;
+    margin-right: 15px;
+    transition: all 0.3s;
+}
+#order-button:hover{
+	transform: scale(1.2);
+}
+
+.delete{
+	padding: 5px 20px;
+    font-weight: 300;
+    text-decoration: none;
+    border-radius: 200px;
+	border: 1px solid;
+}
+
+.delete:hover{
+	transform: scale(1.2);
+}
+
+/* ------------------------------------------------*/
+
+
+/* HEADER */
+
+
+/* ------------------------------------------------*/
+
+header {
+    height: 100vh;
+    background-position: center;
+	color: #fff;
+}
+
+.main-nav {
+    list-style: none;
+    margin-top: 60px;
+}
+
+.main-nav li {
+    display: inline;
+    margin-left: 40px;
+}
+
+.main-nav li a:link,
+.main-nav li a:visited {
+    padding: 8px 0;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 90%;
+    border-bottom: 2px solid #e67e22 transparent;
+    transition: border-bottom 0.2s;
+}
+
+.main-nav li a:hover,
+.main-nav li a:active {
+    border-bottom: 2px solid #e67e22;
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+.column,
+.right-bar {
+    text-align: right;
+    padding: 20px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* ------------------------------------------------*/
+
+
+/* Table*/
+
+
+/* ------------------------------------------------*/
+
+
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 60%;
+    margin: 10% auto;
+
+}
+
+th,
+td {
+    text-align: center;
+    padding: 16px;
+}
+
+th:first-child,
+td:first-child {
+    text-align: left;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+    color: black;
+}
+
+tr {
+    transition: all 0.2s;
+}
+
+tr:not(:first-child):hover {
+    background-color: #e67e22;
+}
+
+tr:last-child {
+    background-color: #e6b522;
+    font-size: 150%;
+}
+
+tr:last-child:hover {
+    background-color: #e6b522;
+}
